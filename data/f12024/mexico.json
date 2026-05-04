@@ -1,5 +1,5 @@
 {
-  "name": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+  "name": "Autódromo Hermanos Rodríguez",
   "trackId": "mexico",
   "country": "Mexico",
   "year": 2023,
@@ -27,7 +27,7 @@
       "end": 0.2878,
       "direction": 1,
       "scale": 2,
-      "name": "Esses Mois\u00e9s Solana"
+      "name": "Esses Moisés Solana"
     },
     {
       "start": 0.2999,
@@ -35,7 +35,7 @@
       "end": 0.3071,
       "direction": 0,
       "scale": 3,
-      "name": "Esses Mois\u00e9s Solana"
+      "name": "Esses Moisés Solana"
     },
     {
       "start": 0.3128,
@@ -43,7 +43,7 @@
       "end": 0.3194,
       "direction": 1,
       "scale": 3,
-      "name": "Esses Mois\u00e9s Solana"
+      "name": "Esses Moisés Solana"
     },
     {
       "start": 0.4744,
